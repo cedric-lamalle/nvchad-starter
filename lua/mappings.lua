@@ -1,6 +1,7 @@
 require "nvchad.mappings"
 
 -- add yours here
+vim.o.fixdeadkeys = true
 
 local map = vim.keymap.set
 
